@@ -144,9 +144,11 @@ Los estilos glassmorphism se pueden personalizar en `src/index.css`:
 - Conexión segura con la API
 
 ---
-<img width="1554" height="713" alt="image" src="https://github.com/user-attachments/assets/34b22a6e-e395-4b17-a63f-1a0b563939aa" />
-<img width="1310" height="695" alt="image" src="https://github.com/user-attachments/assets/6fb40122-91c8-4a20-932f-f78a4f13c930" />
-<img width="1578" height="678" alt="image" src="https://github.com/user-attachments/assets/0042d1ad-e9b8-405f-b074-f29622e77a6c" />
+<img width="1559" height="649" alt="image" src="https://github.com/user-attachments/assets/92a22798-7bc3-4008-932f-c6514c15fa42" />
+<img width="1544" height="720" alt="image" src="https://github.com/user-attachments/assets/85cb31fe-4521-4e1a-b1a6-3bd6421899e2" />
+<img width="1567" height="715" alt="image" src="https://github.com/user-attachments/assets/1b51c806-6589-481e-b70d-f16da1958bd2" />
+<img width="1557" height="671" alt="image" src="https://github.com/user-attachments/assets/c02e5b0b-a1f4-48e3-85bb-43ad26fb6b42" />
+<img width="1586" height="494" alt="image" src="https://github.com/user-attachments/assets/a64c6ad7-3464-494d-b596-e6772eb24e1b" />
 
 
 **Desarrollado con ❤️ para ZoomTV**
