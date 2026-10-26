@@ -144,5 +144,9 @@ Los estilos glassmorphism se pueden personalizar en `src/index.css`:
 - Conexión segura con la API
 
 ---
+<img width="1554" height="713" alt="image" src="https://github.com/user-attachments/assets/34b22a6e-e395-4b17-a63f-1a0b563939aa" />
+<img width="1310" height="695" alt="image" src="https://github.com/user-attachments/assets/6fb40122-91c8-4a20-932f-f78a4f13c930" />
+<img width="1578" height="678" alt="image" src="https://github.com/user-attachments/assets/0042d1ad-e9b8-405f-b074-f29622e77a6c" />
+
 
 **Desarrollado con ❤️ para ZoomTV**
